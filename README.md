@@ -8,7 +8,7 @@ Software Engineer with an interest in game development, advanced software engine
 
 ## Developer Stats
 
-![C#](https://img.shields.io/badge/C#-Fluent-red)
+![C#](https://img.shields.io/badge/C\#-Fluent-red)
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
