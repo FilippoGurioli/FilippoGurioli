@@ -10,7 +10,7 @@ Software Engineer with an interest in game development, advanced software engine
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=FilippoGurioli&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=FilippoGurioli&theme=dracula&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FilippoGurioli&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
