@@ -8,6 +8,12 @@ Software Engineer with an interest in game development, advanced software engine
 
 ## Developer Stats
 
+![C#](https://img.shields.io/badge/C#-Fluent-red)
+![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Beginner-greem)
+
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=FilippoGurioli&theme=dracula&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
