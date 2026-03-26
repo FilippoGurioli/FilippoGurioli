@@ -1,10 +1,11 @@
 # Filippo Gurioli
 
-Software Engineer with an interest in game development, advanced software engineering techniques, and development process automation tools.
+Software Engineer with an interest in game development, advanced software engineering techniques and development process automation tools.
 
 ## Links
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/filippo-gurioli-23a926277/)
+- [![Curriculum](https://filippogurioli.github.io/curriculum-vitae/)
 
 ## Developer Stats
 
