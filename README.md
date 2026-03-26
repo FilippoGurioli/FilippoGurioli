@@ -5,7 +5,7 @@ Software Engineer with an interest in game development, advanced software engine
 ## Links
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/filippo-gurioli-23a926277/)
-- [![Curriculum](https://filippogurioli.github.io/curriculum-vitae/)
+- [![Curriculum]](https://filippogurioli.github.io/curriculum-vitae/)
 
 ## Developer Stats
 
