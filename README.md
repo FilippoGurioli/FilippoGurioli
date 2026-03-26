@@ -12,7 +12,7 @@ Software Engineer with an interest in game development, advanced software engine
 ![C#](https://img.shields.io/badge/C%23-Fluent-red)
 ![Unity](https://img.shields.io/badge/Unity-Fluent-red)
 ![Java](https://img.shields.io/badge/Java-Fluent-red)
-![Java](https://img.shields.io/badge/Kotlin-Intermediate-red)
+![Java](https://img.shields.io/badge/Kotlin-Intermediate-yellow)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-yellow)
 ![Rust](https://img.shields.io/badge/Rust-Beginner-green)
