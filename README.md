@@ -19,7 +19,7 @@ Software Engineer with an interest in game development, advanced software engine
 
 <div align="center">
   
-  [![trophy](https://gh-trophy.cdnsoft.net/?username=FilippoGurioli&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://gh-trophy.cdnsoft.net/?username=FilippoGurioli&theme=dracula&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=FilippoGurioli&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
