@@ -19,12 +19,11 @@ Software Engineer with an interest in game development, advanced software engine
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=FilippoGurioli&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://gh-trophy.cdnsoft.net/?username=FilippoGurioli&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=FilippoGurioli&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=FilippoGurioli&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/marcalexiei/github-stats-extended)
 
   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=FilippoGurioli&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/marcalexiei/github-stats-extended)
-
 </div>
