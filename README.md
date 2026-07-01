@@ -5,7 +5,7 @@ Software Engineer with an interest in game development, advanced software engine
 ## Links
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/filippo-gurioli-23a926277/)
-- ![Curriculum](https://filippogurioli.github.io/curriculum-vitae/)
+- [Curriculum](https://filippogurioli.github.io/curriculum-vitae/)
 
 ## Developer Stats
 
@@ -26,6 +26,5 @@ Software Engineer with an interest in game development, advanced software engine
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoGurioli&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoGurioli&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
